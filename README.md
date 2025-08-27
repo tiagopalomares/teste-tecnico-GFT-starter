@@ -1,18 +1,18 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+#Desafio Técnico GFT
 
-## Folder Structure
+Este repositório contém as soluções para o desafio técnico proposto pela GFT. O projeto foi desenvolvido em Java e abrange lógica de programação, conceitos de Programação Orientada a Objetos (POO) e uso de Large Language Models (LLMs) para resolução de problemas de código.
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+#Como Rodar o Projeto
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+O projeto foi construído em Java e pode ser compilado e executado em qualquer ambiente que tenha o JDK instalado.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Execução
+Para rodar cada desafio, você deve compilar e executar a classe principal correspondente.
 
-## Dependency Management
+Desafio 1: Execute a classe Desafio1.java.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Desafio 2: Execute a classe Desafio2_Principal.java.
+
+Observação sobre o ambiente: Este projeto não utiliza ferramentas de build como Maven ou Gradle. Caso encontre problemas de "classpath" ou "cannot resolve", verifique se o ambiente de desenvolvimento (como o VS Code) está configurado para reconhecer os arquivos .java no mesmo pacote.
