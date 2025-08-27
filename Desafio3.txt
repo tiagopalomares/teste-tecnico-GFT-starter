@@ -1,0 +1,12 @@
+Olá, tenho um trecho de código em que estou tentando iterar sobre uma lista, 
+mas ele está gerando um erro de 'índice fora dos limites da lista'.
+
+O código é este:
+
+lista = ["Ana", "Bruno", "Carlos"]
+for i de 0 até lista.tamanho:
+  imprimir(lista[i])
+
+
+Explique por que esse erro ocorre nesse código e me mostre a forma correta de corrigi-lo. 
+Por favor, mantenha a mesma lógica de loop for com índice, mas aponte a falha na condição do loop.
