@@ -1,7 +1,7 @@
 package br.com.gft;
 import java.util.Scanner;
 
-public class somaDígitos {
+public class Desafio1{
     public static void main(String[] args) {
     
         Scanner scanner = new Scanner(System.in);
